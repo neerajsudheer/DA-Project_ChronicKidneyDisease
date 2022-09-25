@@ -1,0 +1,2 @@
+# DA-Project_ChronicKidneyDisease
+Over 10% of the world’s population is affected with Chronic Kidney Disease (CKD) and millions die every year of kidney failure. In this project, we try to analyze the CKD dataset and come up with effective conclusions. The visualization and analysis of the dataset will help us draw better conclusions on the symptoms as well as the effect of different aspects on the disease.
